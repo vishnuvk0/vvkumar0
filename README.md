@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @vvkumar0
 
 this is my github.
 <!---
